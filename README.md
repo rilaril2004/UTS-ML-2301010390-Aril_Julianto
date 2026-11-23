@@ -16,11 +16,6 @@ Memprediksi apakah pasien menderita penyakit ginjal kronis (`ckd`) atau tidak (`
 ## Dataset
 https://www.kaggle.com/datasets/mansoordaku/ckdisease
 
-## Struktur repository
-```
-README.md
-notebook/UTS_ML_2301010390_Aril.ipynb
-data/kidney_disease.csv
-reports/
-```
+
+
 
