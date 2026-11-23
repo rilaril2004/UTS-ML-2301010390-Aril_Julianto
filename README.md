@@ -3,7 +3,7 @@
 ## Identitas
 - **NIM:** 2301010390
 - **Nama:** Aril  Julianto
-- **Kelas:** XX  *(sesuaikan)*
+- **Kelas:** XX  
 - **Mata kuliah / dosen:** Machine Learning / Dr. I Gede Totok Suryawan, S.Kom., M.T.
 
 ## Ringkasan proyek
@@ -14,10 +14,7 @@ Memprediksi apakah pasien menderita penyakit ginjal kronis (`ckd`) atau tidak (`
 - **Hasil data uji (80 pasien):** Dummy 62,50% | KNN 96,25% | SVM 98,75% (akurasi)
 
 ## Dataset
-- Chronic Kidney Disease, UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/336/chronic_kidney_disease
-- Salinan yang dipakai: `data/kidney_disease.csv` — **[isi link tempat mengunduh dan tanggal akses]**
-- Lisensi: **[isi sesuai halaman sumber]**
-- Data tidak memuat identitas pasien.
+https://www.kaggle.com/datasets/mansoordaku/ckdisease
 
 ## Struktur repository
 ```
